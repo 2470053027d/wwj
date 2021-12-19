@@ -1,0 +1,39 @@
+147.124.220.23
+producer2=fod593da033992b09bbd1531f75911dad914e84ea67
+pubkey_2=FOD6RX3Y98ZN2xsi8VVXRqyKfJRCTxypTUmKvLCqHZizEX7hCpGZ3
+prikey_2=5HvCGuAibzEFXiSiDDywoHvDPvVFhouCD43FYyKcNQkcYxGDkQV
+
+147.124.217.155
+producer2=fod9b8f1518a293fbac4ac96febcb157f8ac9395b33
+pubkey_2=FOD5NYvnvcoqWmSRKNm7hdopkfHh4KdkVQc3F4HatBpnL2DqzPKm5
+prikey_2=5HyPZ73zZXizFcuAoQGryWW6Jph854dvmDvorNEq2FFTFuTdQQL
+
+147.124.220.88
+producer2=fod62443d1b95130e0c4f3aa16e0db11b3866e7055d
+pubkey_2=FOD5VYud82LjQArFNoBFWzFJJMvj1vC7q851StaxFokaZbFs1VEJu
+prikey_2=5HxxxswX7Lnrju1rYDhKGBEYTjieGBUjr4hog7HYMnj3kAiV3QE
+
+104.37.173.64
+producer2=fod459717e2e2cca52aaa20a6a14e8601b57342fac5
+pubkey_2=FOD8YDMJnwzV31Cb8iPBuRJVCEdEz5W4wY1a4bebDsEcW8xbLy7Tm
+prikey_2=5JPCXQ1JTFzAUVSW1MadrVBLz2Zj3ChQK4G3YTYaHJXKAyvLxru
+
+147.124.220.24
+ "publicKey" : "FOD79bS7exN6o1x3jazrvdp2jFQn6wvft2htwZcsWuCxjoBeEhkmx",
+  "privateKey" : "5JZnj11raYSo9dX9csfmv76iZzfoJ55thbXb6j3aoMhoMdp1YnN",
+  "address" : "fod018ab4ff1d42aa508ed63dac1ac74f7d6735c600"
+
+198.135.52.102
+  "publicKey" : "FOD5LkBM3FS7iCpArNpSFSP9SuNKmskQBc5Fz3aRCE3kcxQmiAqSE",
+  "privateKey" : "5Hriu9EZ6aSdUoercdY8ZCcSA9kCepvRfSqGhJqTmkVEVbFbPcz",
+  "address" : "fod890b3f3678610a29f4905c02e9e5d72a11a01c39"
+
+198.135.52.103
+  "publicKey" : "FOD5Kuh9L38a3eKyUEvwTTKvnzyZPg5SvVmrsobFRWysJ4xwmTTCN",
+  "privateKey" : "5HyqQKR9W2s66PkGfH5t1BVf8CkvGLWw48xyF9pxiM64cMd4SXz",
+  "address" : "fodc59d595bebd77c194decfd18272dd9c763cc2828"
+
+104.37.173.48
+  "publicKey" : "FOD5DVmHFbgmFvaMkQwqBmaT9Y8aeHjvy1CGuKY5qcfddntyYMTzX",
+  "privateKey" : "5JSHZy5iydbuaj5f8eZ8Hy23i7DEyxhKCjJMgceubDX2yyQvs3n",
+  "address" : "fodbeb3a87bac9fc15c8a68cc6a298ff401a32a3b9e"
